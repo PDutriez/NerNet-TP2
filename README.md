@@ -1,4 +1,4 @@
-# # Redes Neuronales - Trabajo Practico N°2 - Rossman Store Sales
+# Redes Neuronales - Trabajo Practico N°2 - Rossman Store Sales
 
 En este práctico se trabajará con el dataset de Rossmann. Rossmann es una cadena de drugstores con más de 3000 tiendas en 7 países de Europa. La tarea que se intentará resolver con este dataset es el de predicción de las ventas totales de cada tienda que tendrán lugar en un intervalo de 6 semanas. Se uso como referencia para el preprocesamiento de datos y definir la red neuronal el siguiente repositorio: https://github.com/deeplearning-itba/kaggle-rossmann
 
